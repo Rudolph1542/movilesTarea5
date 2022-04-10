@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "599231883727",
+    "project_id": "photoshare-c4408",
+    "storage_bucket": "photoshare-c4408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599231883727:android:4f16c1bdf521d90ea60aba",
+        "android_client_info": {
+          "package_name": "com.example.photoshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599231883727-k8r4bp87r9q07ph3aa7pumgioj9sr7ig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.photoshare",
+            "certificate_hash": "718bdd99d386af7deaeea697d1fe30a18f3a04a8"
+          }
+        },
+        {
+          "client_id": "599231883727-7urgggi392ndpfaoojj2pdsrlosc4hu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGuxRsHgv8XdZrXzLUsM5qkzWBDZDH7Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599231883727-7urgggi392ndpfaoojj2pdsrlosc4hu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
